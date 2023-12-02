@@ -1,0 +1,7 @@
+C:\Projects\Project\myapptest\publish\myapptest.exe
+C:\Projects\Project\myapptest\publish\appsettings.Development.json
+C:\Projects\Project\myapptest\publish\appsettings.json
+C:\Projects\Project\myapptest\publish\myapptest.dll
+C:\Projects\Project\myapptest\publish\myapptest.deps.json
+C:\Projects\Project\myapptest\publish\myapptest.runtimeconfig.json
+C:\Projects\Project\myapptest\publish\myapptest.pdb
